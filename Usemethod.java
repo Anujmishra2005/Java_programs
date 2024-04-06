@@ -4,7 +4,6 @@ System.out.println("Hello "+name);
 }
 public static void main(String aa[]){
 hi("Rahul");
-
 }
 
 }
