@@ -6,7 +6,6 @@ class Main {
     char operator;
     Double number1, number2, result;
     Scanner input = new Scanner(System.in);
-
     System.out.println("Choose an operator: +, -, *, or /");
     operator = input.next().charAt(0);
 
