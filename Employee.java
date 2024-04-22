@@ -8,5 +8,6 @@ class Employee:
     def getdetails(self):
         return f"Name: {self.emp_name}, ID: {self.emp_id}, Salary: {self.emp_salary}, Company: {self.emp_company}"
 
+        
 emp = Employee("Abhay Rana", 2346 , 50000, "TechCorp")
 print(emp.getdetails())
