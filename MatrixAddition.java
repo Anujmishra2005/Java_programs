@@ -29,7 +29,6 @@ public class MatrixAddition {
         }
 
         System.out.println("Matrix Addition Result:");
-
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 System.out.print(result[i][j] + " ");
