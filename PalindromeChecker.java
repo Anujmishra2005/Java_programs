@@ -1,5 +1,4 @@
 public class PalindromeChecker {
-
     public static boolean isPalindrome(int number) {
         int reversedNumber = 0;
         int originalNumber = number;
