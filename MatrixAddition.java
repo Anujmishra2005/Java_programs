@@ -20,7 +20,6 @@ public class MatrixAddition {
                 matrix2[i][j] = scanner.nextInt();
             }
         }
-
         int[][] result = new int[rows][cols];
 
         for (int i = 0; i < rows; i++) {
