@@ -6,7 +6,6 @@ public class MatrixAddition {
         System.out.println("Enter the number of rows and columns of the matrices:");
         int rows = scanner.nextInt();
         int cols = scanner.nextInt();
-
         int[][] matrix1 = new int[rows][cols];
         int[][] matrix2 = new int[rows][cols];
 
