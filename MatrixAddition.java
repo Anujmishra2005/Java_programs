@@ -8,7 +8,6 @@ public class MatrixAddition {
         int cols = scanner.nextInt();
         int[][] matrix1 = new int[rows][cols];
         int[][] matrix2 = new int[rows][cols];
-
         System.out.println("Enter the elements of the first matrix:");
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
