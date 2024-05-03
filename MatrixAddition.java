@@ -14,7 +14,6 @@ public class MatrixAddition {
                 matrix1[i][j] = scanner.nextInt();
             }
         }
-
         System.out.println("Enter the elements of the second matrix:");
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
