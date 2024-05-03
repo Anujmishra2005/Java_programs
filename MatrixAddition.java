@@ -1,5 +1,4 @@
 package hashcode;
-
 import java.util.Scanner;
 
 public class MatrixAddition {
