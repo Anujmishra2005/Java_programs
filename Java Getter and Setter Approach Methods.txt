@@ -4,7 +4,6 @@ package pkg;
 public class Student {
     private String name;
     private int rollNo;
-
     public void setData(String name, int rollNo) {
         this.name = name;
         this.rollNo = rollNo;
