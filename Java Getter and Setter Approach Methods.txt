@@ -11,7 +11,6 @@ public class Student {
     public String getData() {
         return name + " " + rollNo;
     }
-
     public static void main(String[] args) {
         Student student = new Student();
         student.setData("Anuj Mishra", 43);
