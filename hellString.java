@@ -14,8 +14,7 @@ public class hellString {
     }
     public String toLowerCase() {
         return str1.toLowerCase() + " " + str2.toLowerCase() + " " + str3.toLowerCase() + " " + str4.toLowerCase();
-    }
-    
+    } 
     public char[] toCharacterArray() {
         String concatenated = concatStrings();
         return concatenated.toCharArray();
