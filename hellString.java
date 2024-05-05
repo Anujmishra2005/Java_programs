@@ -26,7 +26,6 @@ public class hellString {
     public boolean isEqualWithOperator(String str3, String str4) {
         return str3 == str4;
     }
-    
     public static void main(String[] args) {
     	
         hellString hello = new hellString();
