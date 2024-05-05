@@ -33,7 +33,6 @@ public class hellString {
         
         sb.append("Java Programming");
         System.out.println(sb);
-        
         System.out.println("Concatenated string: " + hello.concatStrings());
         System.out.println("Uppercase string: " + hello.toUpperCase());
         System.out.println("Lowercase string: " + hello.toLowerCase());
