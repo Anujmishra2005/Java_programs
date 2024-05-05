@@ -9,7 +9,6 @@ public class hellString {
     public String concatStrings() {
         return str1.concat(str2).concat(str3).concat(str4);
     }
-    
     public String toUpperCase() {
         return str1.toUpperCase() + " " + str2.toUpperCase() + " " + str3.toUpperCase() + " " + str4.toUpperCase();
     }
