@@ -29,8 +29,6 @@ public class hellString {
     	
         hellString hello = new hellString();
         StringBuilder sb = new StringBuilder(str);
-        
-        
         sb.append("Java Programming");
         System.out.println(sb);
         System.out.println("Concatenated string: " + hello.concatStrings());
