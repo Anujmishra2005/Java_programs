@@ -1,5 +1,4 @@
 package hashcode;
-
 public class hellString {
     String str1 = new String("Codechef");
     String str2 = new String("Codeforces");
