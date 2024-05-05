@@ -28,7 +28,6 @@ public class hellString {
     public static void main(String[] args) {
     	
         hellString hello = new hellString();
-        
         StringBuilder sb = new StringBuilder(str);
         
         
