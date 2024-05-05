@@ -21,8 +21,7 @@ public class hellString {
     }    
     public boolean isEqual(String str1, String str2) {
         return str1.equals(str2);
-    }
-    
+    } 
     public boolean isEqualWithOperator(String str3, String str4) {
         return str3 == str4;
     }
