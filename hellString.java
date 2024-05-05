@@ -5,7 +5,6 @@ public class hellString {
     String str2 = new String("Codeforces");
     String str3 = "Hackerrank";
     String str4 = "Leetcode";
-    
     public String concatStrings() {
         return str1.concat(str2).concat(str3).concat(str4);
     }
