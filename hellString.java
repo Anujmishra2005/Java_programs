@@ -26,7 +26,6 @@ public class hellString {
         return str3 == str4;
     }
     public static void main(String[] args) {
-    	
         hellString hello = new hellString();
         StringBuilder sb = new StringBuilder(str);
         sb.append("Java Programming");
