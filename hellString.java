@@ -12,7 +12,6 @@ public class hellString {
     public String toUpperCase() {
         return str1.toUpperCase() + " " + str2.toUpperCase() + " " + str3.toUpperCase() + " " + str4.toUpperCase();
     }
-    
     public String toLowerCase() {
         return str1.toLowerCase() + " " + str2.toLowerCase() + " " + str3.toLowerCase() + " " + str4.toLowerCase();
     }
