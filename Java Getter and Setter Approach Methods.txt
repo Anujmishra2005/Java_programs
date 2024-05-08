@@ -25,7 +25,6 @@ package pkg;
 public class Student {
     private String name = "Anuj Mishra";
     private int rollNo = 43;
-
     public void setData(String name, int rollNo) {
         this.name = name;
         this.rollNo = rollNo;
