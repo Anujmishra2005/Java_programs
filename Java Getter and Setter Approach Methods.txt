@@ -30,7 +30,6 @@ public class Student {
         this.name = name;
         this.rollNo = rollNo;
     }
-
     public String getData() {
         return "Name = "+name+"\n"+"Roll No. = "+rollNo;
     }
