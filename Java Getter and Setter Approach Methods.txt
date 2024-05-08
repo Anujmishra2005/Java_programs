@@ -34,7 +34,6 @@ public class Student {
     public String getData() {
         return "Name = "+name+"\n"+"Roll No. = "+rollNo;
     }
-
     public static void main(String[] args) {
         Student student = new Student();
         System.out.println(student.getData());
