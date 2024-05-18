@@ -39,7 +39,6 @@ class Main {
         System.out.println("Invalid operator!");
         break;
     }
-
     input.close();
   }
 }
