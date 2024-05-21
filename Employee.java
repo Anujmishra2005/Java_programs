@@ -4,7 +4,6 @@ class Employee:
         self.emp_id = emp_id
         self.emp_salary = emp_salary
         self.emp_company = emp_company
-
     def getdetails(self):
         return f"Name: {self.emp_name}, ID: {self.emp_id}, Salary: {self.emp_salary}, Company: {self.emp_company}"
 
