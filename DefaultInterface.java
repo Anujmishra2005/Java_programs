@@ -11,7 +11,6 @@ public interface DefaultInterface {
     default String slowDown() {
         return "The vehicle is slowing down.";
     }
-
     default String turnAlarmOn() {
         return "The vehicle alarm is on.";
     }
