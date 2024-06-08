@@ -8,7 +8,6 @@ public interface DefaultInterface {
     default String speedUp() {
         return "The vehicle is speeding up.";
     }
-
     default String slowDown() {
         return "The vehicle is slowing down.";
     }
