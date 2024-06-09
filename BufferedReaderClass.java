@@ -9,7 +9,6 @@ public class BufferedReaderClass {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
         try {
-
             System.out.print("Enter an integer: ");
             int num = Integer.parseInt(br.readLine());
             System.out.println("Integer entered: " + num);
