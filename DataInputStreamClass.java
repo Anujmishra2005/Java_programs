@@ -16,8 +16,7 @@ public class DataInputStreamClass {
             System.out.println("String entered: " + str);
             System.out.print("Enter a character: ");
             char ch = (char) dis.read();
-            System.out.println("Character entered: " + ch);
-            
+            System.out.println("Character entered: " + ch);  
             dis.close();
         } catch (IOException e) {
             System.out.println("Error reading input: " + e.getMessage());
