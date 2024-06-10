@@ -1,5 +1,4 @@
 package java_io_pkg;
-
 import java.io.DataInputStream;
 import java.io.IOException;
 public class DataInputStreamClass {
