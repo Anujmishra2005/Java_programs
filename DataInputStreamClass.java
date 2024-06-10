@@ -4,7 +4,6 @@ import java.io.IOException;
 public class DataInputStreamClass {
     public static void main(String[] args) {
         DataInputStream dis = new DataInputStream(System.in);
-        
         try {
             System.out.print("Enter an integer: ");
             int num = Integer.parseInt(dis.readLine());
