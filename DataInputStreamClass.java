@@ -2,7 +2,6 @@ package java_io_pkg;
 
 import java.io.DataInputStream;
 import java.io.IOException;
-
 public class DataInputStreamClass {
     public static void main(String[] args) {
         DataInputStream dis = new DataInputStream(System.in);
