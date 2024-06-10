@@ -14,7 +14,6 @@ public class DataInputStreamClass {
             System.out.print("Enter a string: ");
             String str = dis.readLine();
             System.out.println("String entered: " + str);
-            
             System.out.print("Enter a character: ");
             char ch = (char) dis.read();
             System.out.println("Character entered: " + ch);
