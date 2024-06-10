@@ -8,7 +8,6 @@ public class DataInputStreamClass {
             System.out.print("Enter an integer: ");
             int num = Integer.parseInt(dis.readLine());
             System.out.println("Integer entered: " + num);
-            
             System.out.print("Enter a double: ");
             double d = Double.parseDouble(dis.readLine());
             System.out.println("Double entered: " + d);
