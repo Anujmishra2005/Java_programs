@@ -11,7 +11,6 @@ public class DataInputStreamClass {
             System.out.print("Enter a double: ");
             double d = Double.parseDouble(dis.readLine());
             System.out.println("Double entered: " + d);
-            
             System.out.print("Enter a string: ");
             String str = dis.readLine();
             System.out.println("String entered: " + str);
