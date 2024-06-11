@@ -1,7 +1,6 @@
 package Methods;
 
 public interface DefaultInterface {
-
     static int getHorsePower(int rpm, int torque) {
         return (rpm * torque) / 5252;
     }
