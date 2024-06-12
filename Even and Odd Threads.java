@@ -15,7 +15,6 @@ class EvenThread extends Thread {
 
 
 
-
 package Even_and_odd;
 
 class OddThread extends Thread {
